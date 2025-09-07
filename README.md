@@ -9,7 +9,6 @@ This project implements **FoodVision Mini** and **FoodVision Big** - food classi
 
 ### Models Implemented:
 - **FoodVision Mini**: Classifies 3 food classes (pizza, steak, sushi)
-- https://github.com/mrdbourke/pytorch-deep-learning/raw/main/data/pizza_steak_sushi_20_percent.zip
 
 - **FoodVision Big**: Classifies 101 food classes from the Food101 dataset
 
